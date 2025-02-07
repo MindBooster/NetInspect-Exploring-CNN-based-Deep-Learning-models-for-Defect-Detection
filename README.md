@@ -6,6 +6,8 @@ NetInspect is a **research-driven deep learning project** focused on **automated
 🔹 **Tackled two real-world defect detection datasets** from **Kaggle**:  
 &nbsp;&nbsp;&nbsp;&nbsp;📌 **[PVC Dataset](https://www.kaggle.com/datasets/ziangwei/irtpvc)** – Implemented **U-Net** & **SegNet**  
 &nbsp;&nbsp;&nbsp;&nbsp;📌 **[HeatSink Dataset](https://www.kaggle.com/datasets/kaifengyang/heat-sink-surface-defect-dataset)** – Implemented **U-Net, SegNet, and ResNet-50 as a backbone**  
+![image](https://github.com/user-attachments/assets/1c6e0e01-5146-411a-a86f-889d51c08991)
+
 
 🔹 **Conducted in-depth research & analysis** on CNN-based architectures.  
 🔹 **Compared performance metrics** (accuracy, precision, recall, F1-score) for optimal defect detection.  
