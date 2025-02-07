@@ -1,21 +1,22 @@
-🚀 NetInspect: Research-Driven CNN-Powered Defect Detection 🔍
-NetInspect is a research-driven deep learning project that explores CNN architectures for automated defect detection. With a focus on industrial quality control, this project benchmarks different deep learning models to improve precision and efficiency in identifying defects.
+# 🚀 NetInspect: Research-Driven CNN-Powered Defect Detection 🔍  
 
-🔬 What We Did
-🔹 Tackled two real-world defect detection datasets from Kaggle:
-    📌 PVC Dataset – Implemented U-Net & SegNet
-    📌 HeatSink Dataset – Deployed U-Net, SegNet, and ResNet-50 as a backbone
+NetInspect is a **research-driven deep learning project** that explores **CNN architectures** for **automated defect detection**. With a focus on **industrial quality control**, this project benchmarks different deep learning models to improve precision and efficiency in identifying defects.  
 
-🔹 Conducted in-depth research & analysis on CNN-based architectures.
-🔹 Compared performance metrics (accuracy, precision, recall, F1-score) for optimal defect detection.
+## 🔬 What We Did  
+🔹 **Tackled two real-world defect detection datasets** from **Kaggle**:  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 **PVC Dataset** – Implemented **U-Net** & **SegNet**  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 **HeatSink Dataset** – Deployed **U-Net, SegNet, and ResNet-50 as a backbone**  
 
-🔧 Tech Stack
-🟢 Python | TensorFlow/Keras | OpenCV
-🟢 NumPy | Pandas | Matplotlib | Seaborn
+🔹 **Conducted in-depth research & analysis** on CNN-based architectures.  
+🔹 **Compared performance metrics** (accuracy, precision, recall, F1-score) for optimal defect detection.  
 
-⚡ Why It Matters
-✅ AI-powered automation for industrial defect detection.
-✅ Research-backed approach to improve quality control.
-✅ Scalable & efficient for smart manufacturing applications.
+## 🔧 Tech Stack  
+🟢 Python | TensorFlow/Keras | OpenCV  
+🟢 NumPy | Pandas | Matplotlib | Seaborn  
 
-💡 Merging research & AI to redefine quality control! 🌍🚀
+## ⚡ Why It Matters  
+✅ **AI-powered automation** for industrial defect detection.  
+✅ **Research-backed approach** to improve quality control.  
+✅ **Scalable & efficient** for smart manufacturing applications.  
+
+💡 **Merging research & AI to redefine quality control!** 🌍🚀  
