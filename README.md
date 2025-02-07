@@ -1,11 +1,11 @@
 # 🚀 NetInspect: Research-Driven CNN-Powered Defect Detection 🔍  
 
-NetInspect is a **research-driven deep learning project** that explores **CNN architectures** for **automated defect detection**. With a focus on **industrial quality control**, this project benchmarks different deep learning models to improve precision and efficiency in identifying defects.  
+NetInspect is a **research-driven deep learning project** focused on **automated defect detection** using advanced **CNN architectures**. With a strong emphasis on **industrial quality control**, this project explores and benchmarks different deep learning models to enhance defect identification accuracy.  
 
 ## 🔬 What We Did  
 🔹 **Tackled two real-world defect detection datasets** from **Kaggle**:  
-&nbsp;&nbsp;&nbsp;&nbsp;📌 **PVC Dataset** – Implemented **U-Net** & **SegNet**  
-&nbsp;&nbsp;&nbsp;&nbsp;📌 **HeatSink Dataset** – Deployed **U-Net, SegNet, and ResNet-50 as a backbone**  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 **[PVC Dataset](https://www.kaggle.com/datasets/ziangwei/irtpvc)** – Implemented **U-Net** & **SegNet**  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 **[HeatSink Dataset](https://www.kaggle.com/datasets/kaifengyang/heat-sink-surface-defect-dataset)** – Implemented **U-Net, SegNet, and ResNet-50 as a backbone**  
 
 🔹 **Conducted in-depth research & analysis** on CNN-based architectures.  
 🔹 **Compared performance metrics** (accuracy, precision, recall, F1-score) for optimal defect detection.  
@@ -19,4 +19,5 @@ NetInspect is a **research-driven deep learning project** that explores **CNN ar
 ✅ **Research-backed approach** to improve quality control.  
 ✅ **Scalable & efficient** for smart manufacturing applications.  
 
-💡 **Merging research & AI to redefine quality control!** 🌍🚀  
+💡 **Bridging research & AI to revolutionize defect detection!** 🌍🚀  
+
